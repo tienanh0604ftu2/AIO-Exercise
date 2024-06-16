@@ -12,3 +12,7 @@ def divide(a, b):
 
 if __name__ == "__main__":
     print(sum(5, 6))
+
+
+def compute_sum(a, b):
+    return a + b
